@@ -1,0 +1,34 @@
+"-A(Aggressive) Scan" type is used for conducting OS detection , version detection, script scamming and traceroute.
+
+OS Detection
+•	OS Family: Linux
+•	Kernel Version:
+o	Detected kernel range: Linux 4.15.x to Linux 5.x
+•	CPE (Common Platform Enumeration):
+o	cpe:/o:linux:linux_kernel:4
+o	cpe:/o:linux:linux_kernel:5
+________________________________________
+Version Detection
+•	Port 80 (HTTP):
+o	Service: Apache HTTP Server
+o	Version: 2.4.58
+o	Platform: Ubuntu
+o	Server Header: Apache/2.4.58 (Ubuntu)
+•	Port 443 (HTTPS):
+o	Service: Apache HTTP Server
+o	Version: 2.4.58
+o	Platform: Ubuntu
+o	Server Header: Apache/2.4.58 (Ubuntu)
+________________________________________
+Script Scanning
+•	HTTP Title:
+o	Default Apache2 webpage is served: "Apache2 Ubuntu Default Page: It works"
+•	Headers:
+o	Port 80: Apache/2.4.58 (Ubuntu)
+o	Port 443: Apache/2.4.58 (Ubuntu)
+________________________________________
+Traceroute Results
+•	Hop Count: 1 hop
+•	Hop Details:
+o	Address: 10.0.18.7
+o	Round Trip Time (RTT): 1.18 ms
