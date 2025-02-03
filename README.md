@@ -1,10 +1,6 @@
 
 # 🌐 **Project SecuScan - Exploring Nmap and Shodan.io**  
 
-### 📝 **Contributors**  
-- **Sukhdeep Singh** - ID: 100447918  
-- **Dilraj Kaur** - ID: 100447804  
-
 ---
 
 ## 📖 **Introduction**  
@@ -101,6 +97,11 @@
 3. **Why did changing the time template (T3, T5) affect the result of the scan?**  
 4. **What is the purpose of using Decoy (-D), and what are the benefits?**  
 5. **What is Shodan, and how does it differ from regular search engines like Google?**  
+
+---
+### 📝 **Contributors**  
+- **Sukhdeep Singh** - ID: 10044****  
+- **Dilraj Kaur** - ID: 10044****
 
 ---
 
